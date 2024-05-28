@@ -323,16 +323,17 @@ nav .fa-solid {
 }
 
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 700px){
     #header { 
         background-image: url(images/penimg.jpg); 
     }
     .header-text {
-        margin-top: 100%;
+        text-align: center;
+        margin-top: 70%;
         font-size: 16px;
     }
     .header-text h1 {
-        font-size: 30px;
+        font-size: 50px;
     }
     nav .fa-solid {
         display: block;
